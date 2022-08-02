@@ -1,6 +1,16 @@
 # my_weather
 
-A new Flutter project.
+## Screenshots
+<p float="center">
+<img src="https://user-images.githubusercontent.com/96433134/182398586-57f44448-699c-4356-9ce4-632ab8efa51c.jpg" width=23% height=35%>
+<img src="https://user-images.githubusercontent.com/96433134/182398603-760e334c-e732-459a-ad42-6384fa4b70a1.jpg" width=23% height=35%>
+<img src="https://user-images.githubusercontent.com/96433134/182398612-d03df568-c95c-410c-af2c-6999e92b69f7.jpg" width=23% height=35%>
+<img src="https://user-images.githubusercontent.com/96433134/182398565-21e10c3c-ff85-42ca-bbaf-ffe32165fb6a.jpg" width=23% height=35%>
+
+
+
+    
+</p>
 
 ## Getting Started
 
